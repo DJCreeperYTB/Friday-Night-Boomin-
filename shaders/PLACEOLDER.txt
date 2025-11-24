@@ -1,0 +1,2 @@
+GitHub does not sync empty folders, so this file exists.
+Please delete it if there are other elements in this folder.
